@@ -1,4 +1,4 @@
-public class Factura {
+public class Factura implements IFactura{
     public int num;
     public float base;
     public float tipoIva;
